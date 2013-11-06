@@ -20,3 +20,9 @@ Install Unity Tweak Tool =>
     No Launch Animation
     
 Install Synapse
+
+Installing Erlang R17.
+https://github.com/HappyPancake/box-erlang/blob/master/wercker-box.yml
+
+Getting node is better from PPA.
+https://launchpad.net/~chris-lea/+archive/node.js
